@@ -1,0 +1,7 @@
+0.6
+2018.3
+Dec  7 2018
+00:33:28
+C:/Users/bixin/Desktop/Lab1/Lab1.sim/sim_1/synth/timing/xsim/testbench_time_synth.v,1550360689,verilog,,C:/Users/bixin/Desktop/Lab1/Lab1.srcs/sources_1/new/lab1.v,,glbl,,,,,,,,
+C:/Users/bixin/Desktop/Lab1/Lab1.srcs/sim_1/new/testbench.v,1550360513,verilog,,,,testbench,,,,,,,,
+C:/Users/bixin/Desktop/Lab1/Lab1.srcs/sources_1/new/lab1.v,1550360506,verilog,,C:/Users/bixin/Desktop/Lab1/Lab1.srcs/sim_1/new/testbench.v,,counter;dff3,,,,,,,,
